@@ -3,7 +3,14 @@
     </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🌞About Me </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;"> <li> 피부과 인사관리시스템(HR) 백엔드 개발 경험이 있으며, 인프라/DB 관리를 수행하였습니다.</li><li> 현재는 Java, Vus.js를 활용한 썬카(중고차 거래) 개인 프로젝트를 진행하며 객체지향적 코드를 작성하고 있습니다.</li><li>  하루 방문자 200명의 테크 블로그를 운영합니다. 학습한 내용을 기록하고 복습하는 습관을 가지고 있습니다.</li><li> 무조건 빠른 개발 보다는, 코드의 퀄리티와 완성도에 중점을 둡니다.</li><li> 정보보안, 인프라, 네트워크에 관심이 많습니다. </div> 
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;">
+        <li> 하루 방문자 200명의 테크 블로그를 운영합니다. 학습한 내용을 기록하고 복습하는 습관을 가지고 있습니다.</li>
+        <li> 무조건 빠른 개발 보다는, 코드의 퀄리티와 완성도에 중점을 둡니다.</li>
+        <li> 피부과 인사관리시스템(HR) 백엔드 개발 경험이 있으며, 인프라/DB 관리를 수행하였습니다.</li>
+        <li> 현재는 Java, Vus.js를 활용한 썬카(중고차 거래) 개인 프로젝트를 진행하며 객체지향적 코드를 작성하고 있습니다.</li>
+        <li> 웹/시스템해킹, 모의침투, 리버싱 등 워게임 87개 완주 및 웹사이트 모의해킹 경험을 통한 공격 흐름 이해를 기반으로 보안 프로그래밍이 가능합니다.</li>
+        <li> malloc, Red-Black Tree, fork() 시스템 콜 등 저수준 시스템 프로그래밍 경험으로 OS 동작 원리를 깊이 이해하여 성능을 고려한 개발이 가능합니다.</li>
+    </div> 
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Tech Stacks </h2> <br> 
