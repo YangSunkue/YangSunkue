@@ -8,7 +8,6 @@
         <li> 꾸준한 학습 기록과 복습을 통해, 하루 평균 200명이 방문하는 테크 블로그를 3년째 운영하고 있습니다.</li>
         <li> Jenkins와 Blue/Green 전략을 활용한 CI/CD 무중단 배포 파이프라인을 구축했습니다.</li>
         <li> 쿼리 분석 중 N+1 문제를 발견하고 fetchJoin/BatchSize로 개선한 JPA 성능 최적화 경험이 있습니다.</li>
-        <li> 웹해킹, 시스템해킹, 모의침투, 리버싱 등 워게임 87개 완주를 통해, 보안을 고려한 안전한 시스템 설계가 가능합니다.</li>
         <li>  malloc, RB Tree, System Call, PintOS 커널 개발 등 저수준 시스템 프로그래밍 경험으로 성능을 고려한 개발이 가능합니다.
             <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(PintOS에서 busy waiting을 sleep/wakeup 방식으로 개선하여 CPU 유휴시간 550ms 향상)</li>
     </div> 
