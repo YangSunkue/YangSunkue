@@ -1,15 +1,14 @@
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=120&text=백엔드%20개발자%20양선규%20입니다.&animation=&fontColor=ffffff&fontSize=40" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=120&text=백엔드%20엔지니어%20양선규%20입니다.&animation=&fontColor=ffffff&fontSize=40" />
     </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🌞About Me </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;">
-        <li> 문제 발견 시 근본적인 원인까지 파악하여 해결하는 철저함을 가지고 있습니다.</li>
-        <li> 꾸준한 학습 기록과 복습을 통해, 하루 평균 200명이 방문하는 테크 블로그를 3년째 운영하고 있습니다.</li>
-        <li> Jenkins와 Blue/Green 전략을 활용한 CI/CD 무중단 배포 파이프라인을 구축했습니다.</li>
-        <li> 쿼리 분석 중 N+1 문제를 발견하고 fetchJoin/BatchSize로 개선한 JPA 성능 최적화 경험이 있습니다.</li>
-        <li>  malloc, RB Tree, System Call, PintOS 커널 개발 등 저수준 시스템 프로그래밍 경험으로 성능을 고려한 개발이 가능합니다.
-            <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(PintOS에서 busy waiting을 sleep/wakeup 방식으로 개선하여 CPU 유휴시간 550ms 향상)</li>
+        <li> 추측이 아닌, 측정으로 최적화합니다. </li>
+        <li> Flask/Gin 기반 MSA 환경에서 4가지 최적화 실험을 수행하여, 평균 500배 이상의 성능 개선을 달성했습니다. <br> -> Latency 1394배, 785배, 683배, 266배 개선 | 쿼리 수 27% 감소 </li>
+        <li> Prometheus, Grafana, K6, InfluxDB 기반 모니터링 환경을 구축하여 정량적으로 측정하고, 원인 분석까지 문서화했습니다. </li>
+        <li> Jenkins 무중단 배포 파이프라인을 구축하여 서비스 가용성 100%를 달성했습니다. </li>
+        <li> 하루 평균 200명이 방문하는 기술 블로그를 3년째 운영 중입니다. </li>
     </div> 
     </div>
     <div style="text-align: left;">
@@ -18,25 +17,26 @@
           <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=plastic&logo=springboot&logoColor=white"/>
           <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=Python&logoColor=white">
           <img src="https://img.shields.io/badge/FastAPI-009688?style=plastic&logo=fastapi&logoColor=white">
+          <img src="https://img.shields.io/badge/Go-00ADD8?style=plastic&logo=go&logoColor=white">
+          <img src="https://img.shields.io/badge/Gin-00ADD8?style=plastic&logo=go&logoColor=white">
           <img src="https://img.shields.io/badge/C-A8B9CC?style=plastic&logo=c&logoColor=white">
           <br/>
           <img src="https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=MySQL&logoColor=white">
+          <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=plastic&logo=postgresql&logoColor=white">
+          <img src="https://img.shields.io/badge/Redis-DC382D?style=plastic&logo=redis&logoColor=white">
           <br/>
           <img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=Linux&logoColor=white">
           <img src="https://img.shields.io/badge/Jenkins-D24939?style=plastic&logo=Jenkins&logoColor=white">
           <img src="https://img.shields.io/badge/Nginx-009639?style=plastic&logo=nginx&logoColor=white">
           <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=plastic&logo=amazonwebservices&logoColor=white">
-          <img src="https://img.shields.io/badge/RDS-527FFF?style=plastic&logo=amazonrds&logoColor=white">
-          <img src="https://img.shields.io/badge/EC2-FF9900?style=plastic&logo=amazonec2&logoColor=white">
-          <img src="https://img.shields.io/badge/S3-569A31?style=plastic&logo=amazons3&logoColor=white">
-          <img src="https://img.shields.io/badge/Route53-8C4FFF?style=plastic&logo=amazonroute53&logoColor=white">
-          <img src="https://img.shields.io/badge/ELB-8C4FFF?style=plastic&logo=awselasticloadbalancing&logoColor=white">
+          <img src="https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=docker&logoColor=white">
+          <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=plastic&logo=rabbitmq&logoColor=white">
           <br/>
-          <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=plastic&logo=Javascript&logoColor=white">
-          <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=plastic&logo=Vue.js&logoColor=white">
-          <img src="https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=HTML5&logoColor=white">
+          <img src="https://img.shields.io/badge/Prometheus-E6522C?style=plastic&logo=prometheus&logoColor=white">
+          <img src="https://img.shields.io/badge/Grafana-F46800?style=plastic&logo=grafana&logoColor=white">
+          <img src="https://img.shields.io/badge/K6-7D64FF?style=plastic&logo=k6&logoColor=white">
+          <img src="https://img.shields.io/badge/InfluxDB-22ADF6?style=plastic&logo=influxdb&logoColor=white">
           <br/>
-          <img src="https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=Docker&logoColor=white">
           <img src="https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white">
           <img src="https://img.shields.io/badge/Swagger-85EA2D?style=plastic&logo=swagger&logoColor=white">
           <br/>
