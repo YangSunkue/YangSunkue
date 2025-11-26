@@ -60,7 +60,7 @@
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏅 Stats </h2> 
     <div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;"> 
         <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ysk9526" alt="Solved.ac 프로필" />
-        <img src="https://github-readme-stats.vercel.app/api?username=YangSunkue&bg_color=60,efdcdc,ecb1b1&title_color=000000&text_color=000000" />
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=YangSunkue&bg_color=60,efdcdc,ecb1b1&title_color=000000&text_color=000000" />
     </div>
     </div>
     </div>
