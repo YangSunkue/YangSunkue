@@ -9,7 +9,7 @@
         <li> Prometheus, Grafana, K6, InfluxDB 기반 모니터링 환경을 구축하여 정량적으로 측정하고, 원인 분석까지 문서화했습니다. </li>
         <li> Jenkins 무중단 배포 파이프라인을 구축하여 서비스 가용성 100%를 달성했습니다. </li>
         <li> 하루 평균 200명이 방문하는 기술 블로그를 3년째 운영 중입니다. </li>
-    </div> 
+    </div>  
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Tech Stacks </h2> <br> 
